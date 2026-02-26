@@ -9,7 +9,7 @@
 - 🔧 Skilled in Java, Spring, Hibernate, JDBC, Servlets, MySQL, HTML5, CSS3, Bootstrap.
 - 🌱 Currently improving Backend & System Design skills
 - 🚀 Passionate about building scalable web applications
-- 📫 Reach me at: kiran.techy21@example.com
+- 📫 Reach me at: kiran.techy21@gmail.com
 
 ---
 
