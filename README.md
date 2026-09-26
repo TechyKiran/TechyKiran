@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🎓 B.E. in Computer Science & Engineering (2023)
 - 💻 Java Full Stack Developer
-- 🔧 Skilled in Java, Spring, Hibernate, JDBC, Servlets, MySQL, HTML5, CSS3, Bootstrap.
+- 🔧 Skilled in Java, DSA, Spring Boot, Spring Security, REST API, Microservices, Hibernate, Redis Cache, JDBC, Servlets, MySQL, HTML5, CSS3, Bootstrap.
 - 🌱 Currently improving Backend & System Design skills
 - 🚀 Passionate about building scalable web applications
 - 📫 Reach me at: kiran.techy21@gmail.com
